@@ -1,0 +1,4 @@
+# os: pertenece a la libreria estandar de Python (no se instala con pip)
+# curl: se instala como paquete del sistema en Docker/Dockerfile
+numpy
+matplotlib
