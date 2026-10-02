@@ -2,3 +2,4 @@
 # curl: se instala como paquete del sistema en Docker/Dockerfile
 numpy
 matplotlib
+csv
