@@ -44,3 +44,7 @@ if __name__ == "__main__":
     print(f"Raiz aproximada: {raiz:.8f}")
     print(f"f(raiz) = {f(raiz):.2e}")
     print(f"Iteraciones: {iteraciones}")
+
+
+
+# OTRO COMENTARIO
