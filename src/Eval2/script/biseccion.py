@@ -45,6 +45,5 @@ if __name__ == "__main__":
     print(f"f(raiz) = {f(raiz):.2e}")
     print(f"Iteraciones: {iteraciones}")
 
-
-
 # OTRO COMENTARIO
+# Esto agregando algo
